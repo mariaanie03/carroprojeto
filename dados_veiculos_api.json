@@ -1,0 +1,31 @@
+{
+    "identificadores_veiculos": {
+        "carro1": {
+            "nomeCompleto": "Volkswagen Fusca 1300L",
+            "anoFabricacao": "1975",
+            "valorFipeEstimado": "R$ 15.000,00",
+            "recallPendente": false,
+            "recallDetalhe": null,
+            "dicaManutencaoAvancada": "Verificar folga da direção a cada 10.000km.",
+            "curiosidade": "O Fusca foi o carro mais vendido do mundo por décadas."
+        },
+        "esportivo1": {
+            "nomeCompleto": "Ferrari F40 Supercar",
+            "anoFabricacao": "1990",
+            "valorFipeEstimado": "R$ 2.500.000,00",
+            "recallPendente": true,
+            "recallDetalhe": "Substituição do sistema de combustível devido a risco de vazamento.",
+            "dicaManutencaoAvancada": "Troca de óleo do motor a cada 5.000km ou 6 meses, o que ocorrer primeiro, usando especificação 10W-60 Racing.",
+            "curiosidade": "A F40 foi o último carro aprovado pessoalmente por Enzo Ferrari."
+        },
+        "caminhao1": {
+            "nomeCompleto": "Scania R450 Highline Streamline",
+            "anoFabricacao": "2018",
+            "valorFipeEstimado": "R$ 450.000,00",
+            "recallPendente": false,
+            "recallDetalhe": null,
+            "dicaManutencaoAvancada": "Inspecionar sistema de freios pneumáticos e lubrificar quinta roda a cada 20.000km.",
+            "curiosidade": "Caminhões Scania são conhecidos por sua durabilidade e motor V8."
+        }
+    }
+}
